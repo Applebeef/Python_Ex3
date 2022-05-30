@@ -1,8 +1,8 @@
-# Name of student #1:
-# ID of  student #1:
+# Name of student #1: Or Othnay
+# ID of  student #1: 315856674
 
-# Name of student #2:
-# ID of  student #2:
+# Name of student #2: Tal Aharon
+# ID of  student #2: 208458414
 
 
 # Download the "Titanic - Machine Learning from Disaster" dataset, either from Kaggle (registration required) or from the course's website
